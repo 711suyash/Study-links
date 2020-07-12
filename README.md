@@ -16,6 +16,8 @@ Collection of articles for DeepLearning and ML study
 - [LeetCode Problem Patterns from educative.io](https://leetcode.com/discuss/general-discussion/457546/LeetCode-Problem-Patterns-from-***)
 - [List of questions sorted by common patterns.](https://leetcode.com/discuss/career/448285/List-of-questions-sorted-by-common-patterns)
 - [Important and Useful links from all over the Leetcode](https://leetcode.com/discuss/general-discussion/665604/Important-and-Useful-links-from-all-over-the-Leetcode)
+- [graph-data-structure-interview](https://medium.com/@codingfreak/graph-data-structure-interview-questions-and-practice-problems-22d5cd488855)
+- 
 
 #### Random Interesting stuff (Read it later kind of things)
 - How vectors work in C++ - Low level understanding - https://krshrimali.github.io/How-Vectors-Work-in-C++-Part-1/
