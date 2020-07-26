@@ -26,3 +26,7 @@ Collection of articles for DeepLearning and ML study
 #### Leetcode questions
 - [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 - [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+
+
+#### Good solutions:
+- [Binary search Kth closest](https://leetcode.com/problems/find-k-closest-elements/discuss/345730/Python3Find-k-closest-elements-Binary-Search)
