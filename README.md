@@ -7,6 +7,7 @@ Collection of articles for DeepLearning and ML study
 
 
 #### Coding related links
+- [Amazon updated questions amcat list](https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions)
 - [How to use LeetCode to help yourself efficiently and effectively (for beginners)](https://leetcode.com/discuss/career/450215/How-to-use-LeetCode-to-help-yourself-efficiently-and-effectively-(for-beginners))
 - [Google phone interview - Algorithms and Complexity](https://leetcode.com/discuss/interview-question/469325/Google-or-Recruiter-Phone-or-Algorithms-and-Complexity)
 - [Amazon Final Interview Questions | SDE1](https://leetcode.com/discuss/interview-question/488887/Amazon-Final-Interview-Questions-or-SDE1)
