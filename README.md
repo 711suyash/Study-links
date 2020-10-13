@@ -25,7 +25,7 @@ Collection of articles for DeepLearning and ML study
 - [leetcode-patterns](https://github.com/SeanPrashad/leetcode-patterns)
 - [Top 10 Object-Oriented Design Principles for writing Clean Code](https://dev.to/javinpaul/top-10-object-oriented-design-principles-for-writing-clean-code-4pe1)
 - [My Top 4 Patterns for Writing Simple Code](https://dev.to/dangoslen/my-top-4-patterns-for-writing-simple-code-25pg)
-- [Must do topics for begineers](https://leetcode.com/discuss/career/449166/must-do-topics-for-beginners](https://leetcode.com/discuss/career/449166/must-do-topics-for-beginners)
+- [Must do topics for begineers](https://leetcode.com/discuss/career/449166/must-do-topics-for-beginners)
 
 #### Random Interesting stuff (Read it later kind of things)
 - How vectors work in C++ - Low level understanding - https://krshrimali.github.io/How-Vectors-Work-in-C++-Part-1/
