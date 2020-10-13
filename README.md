@@ -19,6 +19,13 @@ Collection of articles for DeepLearning and ML study
 - [Important and Useful links from all over the Leetcode](https://leetcode.com/discuss/general-discussion/665604/Important-and-Useful-links-from-all-over-the-Leetcode)
 - [graph-data-structure-interview](https://medium.com/@codingfreak/graph-data-structure-interview-questions-and-practice-problems-22d5cd488855)
 - [Transpose conv vs original conv](https://medium.com/apache-mxnet/transposed-convolutions-explained-with-ms-excel-52d13030c7e8)
+- [The Ultimate Strategy to Preparing for the Coding Interview](https://dev.to/arslan_ah/the-ultimate-strategy-to-preparing-for-the-coding-interview-3ace)
+- [101 Coding Problems and few Tips to Crack Your Next Programming Interviews](https://dev.to/javinpaul/101-coding-problems-and-few-tips-to-crack-your-next-programming-interviews-402a)
+- [Top 8 Data Structures for Coding Interviews and practice interview questions](https://dev.to/fahimulhaq/top-8-data-structures-for-coding-interviews-and-practice-interview-questions-2pb)
+- [leetcode-patterns](https://github.com/SeanPrashad/leetcode-patterns)
+- [Top 10 Object-Oriented Design Principles for writing Clean Code](https://dev.to/javinpaul/top-10-object-oriented-design-principles-for-writing-clean-code-4pe1)
+- [My Top 4 Patterns for Writing Simple Code](https://dev.to/dangoslen/my-top-4-patterns-for-writing-simple-code-25pg)
+- [https://leetcode.com/discuss/career/449166/must-do-topics-for-beginners](https://leetcode.com/discuss/career/449166/must-do-topics-for-beginners)
 
 #### Random Interesting stuff (Read it later kind of things)
 - How vectors work in C++ - Low level understanding - https://krshrimali.github.io/How-Vectors-Work-in-C++-Part-1/
