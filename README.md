@@ -28,7 +28,7 @@ Collection of articles for DeepLearning and ML study
 - [Must do topics for begineers](https://leetcode.com/discuss/career/449166/must-do-topics-for-beginners)
 
 #### Random Interesting stuff (Read it later kind of things)
-- How vectors work in C++ - Low level understanding - https://krshrimali.github.io/How-Vectors-Work-in-C++-Part-1/
+- How vectors work in C++ : Low level understanding - https://krshrimali.github.io/How-Vectors-Work-in-C++-Part-1/
 
 
 #### Leetcode questions
